@@ -1,4 +1,4 @@
-# ML-Based Dyslexia Detection Using Incremental Feature Selection on Task-Based fMRI Data
+# Code for ML-Based Dyslexia Detection Using Incremental Feature Selection on Task-Based fMRI Data
 
 This repository contains the Python scripts and implementation code for the manuscript: **"Optimized Neuro-Computational Diagnostics: Machine-Learning Based Dyslexia Detection Using Incremental Feature Selection on Task-Based fMRI Data."** 
 

@@ -45,8 +45,9 @@ The core implementation files are located in the `Codes/` directory:
 If you use this code or methodology in your research, please cite our corresponding manuscript. (Citation details will be updated upon publication).
 
 ## Contact
-Adarsh Pradhan
-Department of Computer Science and Engineering
-Girijananda Chowdhury University
+Adarsh Pradhan,
+Department of Computer Science and Engineering,
+Girijananda Chowdhury University,
 Guwahati, Assam, India.
+
 Email: adarsh_cse@gcuniversity.ac.in; adarsh33@gmail.com

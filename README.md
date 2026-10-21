@@ -19,26 +19,26 @@ The core implementation files are located in the `Codes/` directory:
 
 ```text
 ├── Codes/                    
-│   ├── 1-Inferior_Frontal_Gyrus 
-│   	├── Generate_ROIs_Inferior_Frontal_Gyrus.ipynb
-│   ├── 2-Superior_Temporal_Gyrus 
-│   	├── Generate_ROIs_Superior_Temporal_Gyrus.ipynb
-│   ├── 3-Middle_Temporal_Gyrus 
-│   	├── Generate_ROIs_Middle_Temporal_Gyrus.ipynb
-│   ├── 4-Inferior_Temporal_Gyrus 
-│   	├── Generate_ROIs_Inferior_Temporal_Gyrus.ipynb
-│   ├── 5-Supramarginal_Gyrus 
-│   	├── Generate_ROIs_Supramarginal_Gyrus.ipynb
-│   ├── 6-Angular-Gyrus 
-│   	├── Generate_ROIs_Angular-Gyrus.ipynb
-│   ├── 7-Temporal_Fusiform_Cortex 
-│   	├── Generate_ROIs_Temporal_Fusiform_Cortex.ipynb
-│   ├── 8-Occipital_Fusiform_Gyrus 
-│   	├── Generate_ROIs_Occipital_Fusiform_Gyrus.ipynb
-│   ├── 9-IFS_[RF] 
-│   	├── Feature_Select_[RF].ipynb
-└── requirements.txt        # Required Python libraries (e.g., nilearn, nibabel, scikit-learn, pandas)
-└── README.md               # Repository documentation
+│   ├── 1-Inferior_Frontal_Gyrus/
+│   │   └── Generate_ROIs_Inferior_Frontal_Gyrus.ipynb
+│   ├── 2-Superior_Temporal_Gyrus/
+│   │   └── Generate_ROIs_Superior_Temporal_Gyrus.ipynb
+│   ├── 3-Middle_Temporal_Gyrus/
+│   │   └── Generate_ROIs_Middle_Temporal_Gyrus.ipynb
+│   ├── 4-Inferior_Temporal_Gyrus/
+│   │   └── Generate_ROIs_Inferior_Temporal_Gyrus.ipynb
+│   ├── 5-Supramarginal_Gyrus/
+│   │   └── Generate_ROIs_Supramarginal_Gyrus.ipynb
+│   ├── 6-Angular-Gyrus/
+│   │   └── Generate_ROIs_Angular-Gyrus.ipynb
+│   ├── 7-Temporal_Fusiform_Cortex/
+│   │   └── Generate_ROIs_Temporal_Fusiform_Cortex.ipynb
+│   ├── 8-Occipital_Fusiform_Gyrus/
+│   │   └── Generate_ROIs_Occipital_Fusiform_Gyrus.ipynb
+│   └── 9-IFS_[RF]/
+│       └── Feature_Select_[RF].ipynb
+├── requirements.txt            # Required Python libraries (e.g., nilearn, nibabel, scikit-learn, pandas)
+└── README.md                   # Repository documentation
 ```
 
 ## Citation
